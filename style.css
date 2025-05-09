@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: #F3E9DC;
+    color: #3c1b09;
+  }
+
+h5{
+  color: #F3E9DC;
+}
+
+h6 {
+    color: #895737;
+}
+
+p {
+  color: white;
+}
+
+  section {
+    padding: 60px 0;
+  }
+
+  a img {
+    transition: transform 0.2s;
+  }
+  
+  a img:hover {
+    transform: scale(1.1);
+  }
+
+    .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
